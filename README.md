@@ -6,4 +6,5 @@ Different recommender system models and codes include:
 - Cosine similarity
 - Clustering
 - kNN
+- Neural Collaborative Filtering
 
